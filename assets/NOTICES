@@ -1927,6 +1927,7 @@ path_provider_foundation
 path_provider_linux
 path_provider_platform_interface
 two_dimensional_scrollables
+url_launcher
 url_launcher_android
 url_launcher_ios
 url_launcher_linux
@@ -5640,7 +5641,6 @@ flutter_lints
 flutter_shaders
 path_provider_windows
 plugin_platform_interface
-url_launcher
 url_launcher_platform_interface
 vector_graphics_codec
 video_player_web

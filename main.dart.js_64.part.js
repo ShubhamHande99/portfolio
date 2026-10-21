@@ -1,15 +1,15 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B,A={
-awW(d,e,f){var y,x,w=null,v=new B.F(),u=new B.F()
-u=new A.Mu(v,u)
+axr(d,e,f){var y,x,w=null,v=new B.H(),u=new B.H()
+u=new A.MF(v,u)
 u.a9(d,w,e,w)
 y=u.a
 x=v.r
 x.toString
 y.r=x
-v.r=A.aO0(u)
+v.r=A.aOx(u)
 return u},
-aMI(d,e){var y
+aNe(d,e){var y
 A:{if("timePicker.hours"===e){y="Klukkustundir"
 break A}if("timePicker.minutes"===e){y="M\xedn\xfatur"
 break A}if("timePicker.seconds"===e){y="Sek\xfandur"
@@ -23,25 +23,25 @@ break A}if("input.selectAll"===e){y="Velja allt"
 break A}if("keyboardToolbar.done"===e){y="Loki\xf0"
 break A}y=null
 break A}return y},
-aO0(d){return new A.ani(d)},
-Mu:function Mu(d,e){this.r=d
+aOx(d){return new A.anM(d)},
+MF:function MF(d,e){this.r=d
 this.a=e},
-ani:function ani(d){this.a=d},
-VW:function VW(){}}
+anM:function anM(d){this.a=d},
+W8:function W8(){}}
 B=c[0]
 A=a.updateHolder(c[36],A)
-A.Mu.prototype={
+A.MF.prototype={
 i(d,e){var y=this.r.I(e)
 return y==null?this.a.I(e):y},
 ga7(){return this.r}}
-A.VW.prototype={}
+A.W8.prototype={}
 var z=a.updateTypes([])
-A.ani.prototype={
-$1(d){return A.aMI(this.a,d)},
+A.anM.prototype={
+$1(d){return A.aNe(this.a,d)},
 $S:1};(function inheritance(){var y=a.mixin,x=a.inherit
-x(A.VW,B.E)
-x(A.Mu,A.VW)
-x(A.ani,B.al)
-y(A.VW,B.ap)})()
-B.av(b.typeUniverse,JSON.parse('{"Mu":{"E":[]}}'))};
-(a=>{a["FqX9RDt5LOuK+zXy2ZflF662n2g="]=a.current})($__dart_deferred_initializers__);
+x(A.W8,B.E)
+x(A.MF,A.W8)
+x(A.anM,B.al)
+y(A.W8,B.ap)})()
+B.av(b.typeUniverse,JSON.parse('{"MF":{"E":[]}}'))};
+(a=>{a["yQeR4CAXWo0z0Bc0ypdtCGKd3sY="]=a.current})($__dart_deferred_initializers__);
